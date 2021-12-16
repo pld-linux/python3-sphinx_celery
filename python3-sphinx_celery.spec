@@ -15,7 +15,7 @@ Source0:	https://files.pythonhosted.org/packages/source/s/sphinx-celery/sphinx_c
 URL:		https://pypi.org/project/sphinx-celery/
 # setup.py says it supports python 2.6+/3.3+, but Sphinx 2 doesn't support python2
 BuildRequires:	python3-modules >= 1:3.3
-BuildRequires:	python3-setuptools >= 20.6.7
+BuildRequires:	python3-setuptools >= 1:20.6.7
 %if %{with tests}
 BuildRequires:	python3-Sphinx >= 2.0.0
 BuildRequires:	python3-nose
