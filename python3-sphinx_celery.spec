@@ -6,7 +6,7 @@ Summary:	Sphinx Celery theme
 Summary(pl.UTF-8):	Motyw Celery dla Sphinksa
 Name:		python3-sphinx_celery
 Version:	2.0.0
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx_celery/
